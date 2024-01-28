@@ -15,7 +15,7 @@ public static void main(String[] args){
     if(delta<0){
         System.out.println("phuong trinh vo nghiem");
     }else if(delta == 0){
-        x1 = x2 = -b*(2*a);
+        x1 = x2 = -b/(2*a);
         System.out.println("phuong trinh co nghiem kep x =  " +x1);
     } else {
         x1 = -b + Math.sqrt(delta) / (2*a);
