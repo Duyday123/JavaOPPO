@@ -15,7 +15,7 @@ public  class Bai4 {
                 System.out.print("thang 2");
                 break;
             case 3:
-                System.out.print("thang ");
+                System.out.print("thang 3");
                 break;
                 case 4:
                 System.out.print("thang 4");
