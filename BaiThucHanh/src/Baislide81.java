@@ -11,7 +11,7 @@ public static void main(String[] args) {
     System.out.println("nhap cac phan tu cua ma tran :");
     for (int i = 0; i < m; i++) {
         for (int j = 0; j < n; j++) {
-          System.out.print("Nhap phan tu thu  ["+i+","+j+"]:");
+          System.out.print("Nhap phan tu thu   ["+i+","+j+"]:");
         A[i][j] = sc.nextInt();
         }
     }
