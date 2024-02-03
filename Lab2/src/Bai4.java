@@ -45,7 +45,7 @@ public  class Bai4 {
                 System.out.print("thang 12");
                 break;
                 default:
-                System.out.println("So thang sai");
+                System.out.println("So thang bi sai");
                 sc.close();
         }
         
