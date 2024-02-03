@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class Baislide35 {
 public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
+    
     System.out.print("Nhap so thu nhat : ");
     double num1 = sc.nextDouble();
     System.out.print("Nhap so thu hai : ");
