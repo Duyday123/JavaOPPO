@@ -4,7 +4,6 @@ public class Baislide30 {
         int n, soDu, tong = 0;
         Scanner sc = new Scanner(System.in);
         System.out.println("Nhap n bat ki : ");
-        
         n = sc.nextInt();
         while (n > 0) {
             soDu = n % 10;
