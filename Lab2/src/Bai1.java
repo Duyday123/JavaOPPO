@@ -4,13 +4,13 @@ public class Bai1 {
     public static void main(String[] args) {
         double num1, num2;
 
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.print("Nhap so thu nhat : ");
-        num1 = scanner.nextDouble();
+        num1 = sc.nextDouble();
 
         System.out.print("Nhap so thu hai: ");
-        num2 = scanner.nextDouble();
+        num2 = sc.nextDouble();
 
       
         double sum = num1 + num2;
@@ -39,6 +39,6 @@ public class Bai1 {
         }
 
 
-        scanner.close();
+        sc.close();
     }
 }
