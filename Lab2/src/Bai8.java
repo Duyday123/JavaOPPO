@@ -9,6 +9,7 @@ public class Bai8 {
         int n, number ;
         double sum = 0;
         System.out.print("nhap vao cac so nguyen ");
+        
             n = sc.nextInt();
             for(int i =1; i <=n; i++){
                 System.out.print("nhap so thu "  + i + ": ");
