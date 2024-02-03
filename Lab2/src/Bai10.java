@@ -11,6 +11,7 @@ public class Bai10 {
         int Dem = 0;
         do {
             System.out.print("Nhap chuoi ki tu : ");
+            
             chuoikytu = sc.nextLine();
         } while( chuoikytu.length() > 80 );
 
