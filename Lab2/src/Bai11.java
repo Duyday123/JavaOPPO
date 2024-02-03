@@ -29,6 +29,7 @@ public class Bai11 {
 }
 System.out.println();
 System.out.print("Mang sau khi sap xep tang dan la : ");
+
 for(int i = 0;i < array.length;i++) {
     System.out.print(array[i] + " ");
 } sc.close();
