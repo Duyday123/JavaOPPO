@@ -5,7 +5,7 @@ public class Bai5 {
     Scanner sc = new Scanner(System.in);      
     String reString = "" ;
     while (tong < 100){
-     System.out.print("Nhap vao so nguyen bat ky: ");
+     System.out.print("Nhap vao so nguyen bat ki: ");
        number = sc.nextInt();
        tong += number;
    reString = reString + number + " + ";
