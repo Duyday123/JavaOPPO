@@ -4,7 +4,6 @@ public class Baislide74 {
     public static void main(String[] args) {
         int n;
         int Tong = 0;
-        
         Scanner sc = new Scanner(System.in);
         System.out.print("nhap so phan tu cua mang : ");
         n = sc.nextInt();
