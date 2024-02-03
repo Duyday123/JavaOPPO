@@ -3,6 +3,7 @@ public class Baislide40 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("moi ban nhap ngay :");
+        
         int ngay = sc.nextInt();
 
         switch( ngay ){
