@@ -21,10 +21,14 @@ public class Bai1 {
 
       
         System.out.println("Tong: " + sum);
+
         System.out.println("Hieu: " + difference);
+
         System.out.println("Tich: " + product);
+
         System.out.println("Thuong: " + quotient);
-        System.out.println("Chia lay du: " + remainder);
+
+        System.out.println("Chia Lay Du: " + remainder);
 
         if (num1 > num2) {
             System.out.println(num1 + " lon hon " + num2);
@@ -34,7 +38,7 @@ public class Bai1 {
             System.out.println("Hai so bang nhau");
         }
 
-    
+
         scanner.close();
     }
 }
