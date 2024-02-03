@@ -22,7 +22,9 @@ public class Bai9 {
             
         }
         System.out.println("So ki tu viet thuong trong chuoi la : "+kytuthuong);
+
         System.out.println("So ki tu viet hoa trong chuoi la : "+kytuhoa);
+        
         System.out.println("So ki tu chu so trong chuoi la : "+So);
         sc.close();
     } 
