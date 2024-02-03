@@ -9,6 +9,7 @@ public static void main(String[] args) {
     n = sc.nextInt();
     int A[][] = new int[m][n];
     System.out.println("nhap cac phan tu cua ma tran :");
+    
     for (int i = 0; i < m; i++) {
         for (int j = 0; j < n; j++) {
           System.out.print("Nhap phan tu thu  ["+i+","+j+"]:");
