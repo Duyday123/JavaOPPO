@@ -17,10 +17,10 @@ class HinhTron {
     float dt;
 
     void NhapBanKinh() {
-        System.err.print("Nhap ban kinh cua hinh tron : ");
+        System.out.print("Nhap ban kinh cua hinh tron : ");
         Scanner scanner = new Scanner(System.in);
         r = scanner.nextFloat();
-       
+        scanner.close();
     }
 
     void TinhChuVi() {
@@ -32,11 +32,11 @@ class HinhTron {
     }
 
     void Inchuvi() {
-        System.err.println("Chu vi hinh tron : " + cv);
+        System.out.println("Chu vi hinh tron : " + cv);
     }
 
     void Indientich() {
-        System.err.println("Dien tich hinh tron : " + dt);
+        System.out.println("Dien tich hinh tron : " + dt);
     }
 }
 
