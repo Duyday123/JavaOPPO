@@ -37,6 +37,7 @@ public class Employee {
             System.out.println(" Luong Cua Nhan Vien : " + Luong);
         }
         public void LuongTK(){
+            
             LuongTK = Luong + Thuong;
             System.out.println(" Luong Tong Ket : " + LuongTK);
         }
