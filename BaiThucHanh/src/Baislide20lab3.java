@@ -28,7 +28,7 @@ class HinhTron {
     }
 
     void TinhDienTich() {
-        dt = PI * r * r;
+        dt = PI *  r * r;
     }
 
     void Inchuvi() {
