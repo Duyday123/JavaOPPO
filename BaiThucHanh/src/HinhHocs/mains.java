@@ -1,6 +1,7 @@
 package HinhHocs;
 
 public class mains {
+    
     public static void main(String[] args) {
         HinhTrons ht = new HinhTrons();
         ht.xuatTen();

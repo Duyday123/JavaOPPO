@@ -9,6 +9,7 @@ public class HinhTrons extends HinhHoc {
     {
         ten = "Hinh Tron";
     }
+    
     public void nhapBanKinh()
     {
         System.out.print("Nhap ban kinh: ");

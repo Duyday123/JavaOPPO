@@ -10,6 +10,7 @@ public class HinhChuNhat extends HinhHoc {
     {
         ten = "Hinh Chu Nhat";
     }
+    
     public void nhapChieuDai()
     {
         System.out.print("Nhap chieu dai: ");

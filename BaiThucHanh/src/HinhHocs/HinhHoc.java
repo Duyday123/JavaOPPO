@@ -10,6 +10,7 @@ public class HinhHoc {
     public float theTich;
     public void xuatTen()
     {
+        
         System.out.println("======" + ten + "======");
     }
     public void inChuVi()

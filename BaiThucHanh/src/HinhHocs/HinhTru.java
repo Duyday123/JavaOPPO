@@ -9,6 +9,7 @@ public class HinhTru extends HinhTrons {
     {
         ten = "Hinh Tru";
     }
+    
     public void nhapChieuCao()
     {
         super.nhapBanKinh();
