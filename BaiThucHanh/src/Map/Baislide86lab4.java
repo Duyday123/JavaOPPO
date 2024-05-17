@@ -13,6 +13,7 @@ public class Baislide86lab4 {
         hashMap.put("PHP", "PHP");
         hashMap.put("Java", "Java");
 
+        
         Set<Map.Entry<String, String>> setHashMap = hashMap.entrySet();
         System.out.println("cac entry co trong setHashMap");
         System.out.println(setHashMap);
